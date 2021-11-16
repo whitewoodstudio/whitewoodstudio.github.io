@@ -488,6 +488,14 @@ progress {
   display: none !important;
 }
 
+.tuna{
+  color:rgb(199, 108, 116);
+}
+
+.green{
+  color: rgb(194, 153, 104);
+}
+
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
@@ -11338,9 +11346,9 @@ header.masthead .masthead-content {
   position: relative;
 }
 header.masthead .masthead-content .masthead-heading {
+  word-break: normal;
   overflow: visible;
-word-break: normal;
-  font-size: 4;
+  font-size: 4vw;
 }
 header.masthead .masthead-content .masthead-subheading {
   font-size: 2rem;
