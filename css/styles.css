@@ -11339,7 +11339,8 @@ header.masthead .masthead-content {
 }
 header.masthead .masthead-content .masthead-heading {
   overflow: visible;
-  font-size: 4vw;
+word-break: break-word;
+  font-size: 4rem;
 }
 header.masthead .masthead-content .masthead-subheading {
   font-size: 2rem;
