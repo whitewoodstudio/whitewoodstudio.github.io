@@ -11338,6 +11338,7 @@ header.masthead .masthead-content {
   position: relative;
 }
 header.masthead .masthead-content .masthead-heading {
+  overflow: visible;
   font-size: 4rem;
 }
 header.masthead .masthead-content .masthead-subheading {
