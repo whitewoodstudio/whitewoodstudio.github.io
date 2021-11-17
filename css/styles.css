@@ -492,8 +492,12 @@ progress {
   color:rgb(199, 108, 116);
 }
 
-.green{
+.salmon{
   color: rgb(194, 153, 104);
+}
+
+.green{
+  color: rgb(165, 194, 125);
 }
 
 .lead {
